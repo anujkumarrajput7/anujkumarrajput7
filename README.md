@@ -1,5 +1,7 @@
 # 💫 About Me:
 Hi, I’m aj — a curious developer who enjoys building things that are clean, useful, and actually enjoyable to use.<br><br>I like working across the stack and learning how systems fit together, from clean UI interactions to efficient backend logic. I’m especially interested in writing readable, maintainable code and continuously improving through hands-on projects.<br><br>When I’m not coding, I’m usually exploring new tools, refining side projects, or learning something slightly outside my comfort zone.<br><br>🔧 Tech I Enjoy Working With<br>JavaScript / TypeScript<br><br>React / Node.js<br><br>APIs & backend services<br><br>Git, GitHub, and developer tooling<br><br>🚀 What I’m Up To<br>Building personal and open-source projects<br><br>Improving problem-solving and system design skills<br><br>Learning new frameworks and best practices<br><br>📫 Let’s Connect<br>Feel free to check out my repositories or reach out — I’m always open to collaborating and learning from others.
+Full Stack Developer | React | Node.js | MongoDB
+Building web apps & learning AI
 
 
 ## 🌐 Socials:
